@@ -6,8 +6,8 @@ MIOP protocol template
 
 | PREPARED BY All authors known to have contributed to the preparation of this protocol, including those who filled in the template.  | AFFILIATION | ORCID (visit https://orcid.org/ to register) | DATE |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell | yyyy-mm-dd |
-| Content Cell  | Content Cell  | Content Cell | yyyy-mm-dd |
+| Jakob Barz  | Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research  | Content Cell | 2022-03-09 |
+| Christina Bienhold  | Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research / Max Planck Institute for Marine Microbiology | Content Cell | 2022-03-09 |
 
 ## PROTOCOL REVISION RECORD
 
@@ -15,7 +15,7 @@ Version numbers start at "1.0.0" when the protocol is first completed and will i
 
 | VERSION  | RELEASE DATE This is the date when a given protocol version was finalised | DESCRIPTION OF REVISIONS Please include a brief description of what was changed relative to the previous version |
 | ------------- | ------------- | ------------- |
-| 1.0.0  | yyyy-mm-dd  | Initial release  |
+| 1.0.0  | 2022-03-09  | Working version  |
 | Content Cell  | Content Cell  | Content Cell  |
 
 ## RELATED PROTOCOLS IN YOUR FOLDER
@@ -24,7 +24,7 @@ This is a list of other protocols deposited in your folder which should be known
 
 | PROTOCOL NAME AND LINK  | VERSION The version of the protocol you linked to | RELEASE DATE This is the date corresponding to the version listed to the left |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | yyyy-mm-dd  |
+| [DNA quantification using the Quantus-Fluorometer (FRAM MolObs)](https://spaces.awi.de/pages/viewpage.action?pageId=394251875)  | 1  | 2022-03-09  |
 | Content Cell  | Content Cell  | yyyy-mm-dd  |
 
 ## RELATED EXTERNAL PROTOCOLS
@@ -40,7 +40,10 @@ This is a list of other protocols that are not in your folder which should be kn
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| DNA  | Deoxyribonucleic acid  |
+| TE | Tris-EDTA |
+| PCR | Polymerase chain reaction |
+| CTD | Conductivity Temperature Depth sensors |
 
 ## GLOSSARY
 
@@ -51,17 +54,17 @@ This is a list of other protocols that are not in your folder which should be kn
 
 # BACKGROUND
 
-This document describes the required protocol to conduct insert name of the method/protocol.
+This document describes the DNA extraction protocol for water samples collected on a Sterivex or other types of membrane filters. The protocol is based on the DNeasy PowerWater Kit protocol, manufactured by Qiagen (the DNeasy PowerWater Kit was previously sold by MO BIO as the PowerWater DNA Kit). The DNA extraction is based on a combined chemical and mechanical cell lysis by using PowerBead tubes.
 
 ## Summary
 
-Insert a short description of the background for the method/protocol (e.g. why and for which purpose do you perform water sampling).
-Please provide a brief summary of your method including, as appropriate, a brief description of what techniques your best practice is about, which ocean environments or regions it targets, the primary sensors covered, what type of data/measurements/observing platform it covers, limits to its applicability.
+This document provides a change-controlled version of DNA extraction from sea water samples. Documentation of content changes (e.g. in particular tasks or safety practices) will occur via this change-controlled document, not through field manuals or training materials.
 
 ## Method description and rationale
 
-Insert a short description of the functioning principal of the methodology used in the protocol (i.e. how does the method work?). Please note that this is different from the step-by-step description of the protocol procedure.
-Insert a short statement explaining why the specific methodology used in the protocol has been selected (e.g. it is highly reproducible, highly accurate, procedures are easy to execute etc….).
+The method used to extract DNA in this protocol is based on a combined chemical and mechanical cell lysis. Mechanical lysis is achieved by the use of the company supplied PowerBead tubes and a vortexer. Subsequently, potential inhibitors are removed, DNA is captured on a filter membrane, washed and finally eluted in TE buffer.
+
+DNA extraction using this kit allows for high throughput and reproducibility. It is also optimized for subsequent PCR amplification of the derived DNA extract.
 
 ## Spatial coverage and environment(s) of relevance
 
@@ -69,31 +72,46 @@ If applicable, please specify the region where the protocol is applied. For regi
 
 # PERSONNEL REQUIRED
 
-Insert the number of technicians, data managers, and scientists required for the good execution of the procedure
+One technician or scientist can easily cover the full workflow required for the good execution of the procedure.
 
 ## Safety
 
-Identify hazards associated with the procedure and specify protective equipment and safety training required to safely execute the procedure
+Follow general laboratory safety measures (lab coat, goggles and gloves). Hazards identification: Solutions PW3 and PW4 are alcohol based solutions and therefore are flammable.
+
+Consider the safety instructions provided in the kit (attached, can also be found on the manufacturer website: www.qiagen.com/safety).
 
 ## Training requirements
 
-Specify technical training required for the good execution of the procedure.
+No additional training required beyond standard laboratory practices.
 
 ## Time needed to execute the procedure
 
-Specify how much time is necessary to execute the procedure.
+
+Depends on the amount of samples. One of the limiting factors is the amount of samples that can be mounted simultaneously on the vortex (size of the BeadTube adapter). Normally 1.5-2 hours are sufficient to extract 6-12 samples and measure their DNA concentration.
+
+When extracting from Sterivex filters, consider approx. 3 additional minutes on opening the filter capsule.
 
 # EQUIPMENT
 
 | DESCRIPTION e.g. filter | PRODUCT NAME AND MODEL Provide the official name of the product | MANUFACTURER Provide the name of the manufacturer of the product. | QUANTITY Provide quantities necessary for one application of the standard operating procedure (e.g. number of filters). | REMARK For example, some of the consumable may need to be sterilized, some commercial solution may need to be diluted or shielded from light during the operating procedure. |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Durable equipment |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Consumable equipment |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Chemicals |
+| **Durable equipment** |
+| pipettes (1000 μl / 200 μl / 100 μl) | Content Cell | Content Cell | Content Cell | Content Cell |
+| centrifug e for 2 ml
+tubes with 13,000 xg | Content Cell | Content Cell | 1 | Content Cell |
+| vortex + BeadTu be adapter | | | 1 | for bead beating step |
+| water bath | | | 1 | to heat up solution PW1 + 3 |
+| fridge for incubati on at 4° C | | | 1 | |
+| rack for 2 ml tubes | | | 1 | |
+| tube cutter + blade | | | 1 | to open the Sterivex filter |
+| 5 ml tube box | | | 1 per 25 samples | for storing the sterivex filters. Optionally, you can store the sterivex in 50 ml falcon tubes |
+| scalpel + blade | | | 1 | to cut the filter from the inner plastic part of the sterivex. cleaned just by ethanol, not by flame!!! (HgCl2 would vaporize and it is toxic if respired) |
+| forceps | | | 1 | to pull the filter from the plastic and put it into the bead tube. cleaned just by ethanol, not by flame!!! (HgCl2 would vaporize and it is toxic if respired)
+| **Consumable equipment** |
+| material provided in DNeasy PowerWater Kit | Content Cell | Content Cell | 1 BeadTube, 1 SpinFilter, 3-4 Collection Tubes | Content Cell |
+| pipette tips (blue / yellow) | Content Cell | Content Cell | several | autoclaved |
+| gloves | | | several | |
+| **Chemicals** |
 | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 

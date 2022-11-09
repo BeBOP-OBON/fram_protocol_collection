@@ -111,29 +111,32 @@ In the following SOP, please use the exact names of equipment as noted in the ta
 
 ## Protocol
 
-Provide a step-by-step description of the protocol. The identification of difficult steps in the protocol and the provision of recommendations for the execution of those steps are encouraged.
+1. Prepare tubing set-up.
 
-## DNA extraction
+   1.1. Connect the pump head tubing via connector and tape (waterproof!) and/or cable tie with smaller tubing to build a connection to a Sterivex filter adapter
 
-### Preparation
+   1.2. Prepare the other tubing end to fit with your sample container (e.g with connector or weight to hold it on the bottom of the sample container)
 
-Please specify the preparatory actions you took before you extracted the DNA from your samples and note what equipment was used to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
+2. Attach the tube with your sample/sample container
+3. Close and fasten the pump head tubing holder
+4. Start the pump (in clockwise direction [ATTENTION: direction depends on you set-up!!] so that the water is drawn inside the tubing) without the
+Sterivex attached, to fill the tube with water and get rid of the air.
+5. Stop the pump before the water reaches the end of the tubing.
+6. Connect the Sterivex filter to the outlet end of the tubing with a luer-lock adapter.
+7. Restart the pump to filter your sample through the sterivex
+8. Check for a consistent water flow by watching the outflow of the Sterivex filter. If it is not consistent use the screw at the pump head tubing holder
+to to loosen or fasten the tubing a bit more until the flow is consistent.
+9. Also check that there is not too much pressure on the tube. If the Sterivex filter is too clogged and the pump head too tight, the tubing could burst.
+To avoid that, the pressure can be reduced by loosening the screw at the pump head.
+10. Wait until all the water passed the Sterivex filter. Time depends on the type of your water.
+11. Shut off the pump and open the pump head tubing holder to release the pressure.
+12. Remove the Sterivex from tubing.
+13. Suck air in a 10ml or 20ml-luer-lock-syringe
+14. Connect the Sterivex to the syringe and press the air trough the filter to remove the water left-over inside
+15. Seal the open ends of the Sterivex with luer-lock stoppers or parafilm
+16. Store the Sterivex in a 5 ml-tube box (or a 50 ml falcon tube) at -20°C.
 
-1. Step 1
-
-3. Step 2
-
-### Extraction
-
-Please specify the actions you took to extract the DNA from your samples and note what equipment was used to do so (e.g. incubation, vortexing, washing, elution, use of controls).
-
-1. Step 1
-
-3. Step 2
-
-   a. Sub-step a
-   
-   b. Sub-step b
+The tubing set-up is reusable until the tubing gets perished or tarnished. Then you should replace it.
 
 
 ## Quality control

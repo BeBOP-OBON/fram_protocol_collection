@@ -126,21 +126,63 @@ Provide a step-by-step description of the protocol. The identification of diffic
 
 ## DNA extraction
 
-The following protocol is the provided protocol from Qiagen for this kit. At some points some changes are added (**_marked in cursive and bold_**). They are just options we brought in to make the workflow easier or more efficient.
+The following protocol is the provided protocol from Qiagen for this kit. At some points some changes are added (_marked in cursive_). They are just options we brought in to make the workflow easier or more efficient.
 
 ### Preparation
 
 1. Warm Solution PW1 prior to use at 55°C for 5-10 minutes. Use Solution PW1 while still warm.
-2. Check Solution PW3 and warm at 55°C for 5-10 minutes if necessary. Solution PW3 can be used while still warm. (**_because of the brown bottle you can't see whether PW3 is precipitated or not so it is better to warm both solution. Therefore it is best to use a water bath set on 55°C_**)
+2. Check Solution PW3 and warm at 55°C for 5-10 minutes if necessary. Solution PW3 can be used while still warm. (_because of the brown bottle you can't see whether PW3 is precipitated or not so it is better to warm both solution. Therefore it is best to use a water bath set on 55°C_)
 3. Shake to mix solution PW4 before use.
 
 ### Extraction
 
-**_In our standard operating procedure we filter samples on Sterivex filters (0.2 μm) via a peristaltic pump. So instead of step 1-3 (see Qiagen protocol below) were are doing the procedure described in the protocol Sterivex filtration._**
+_In our standard operating procedure we filter samples on Sterivex filters (0.2 μm) via a peristaltic pump. So instead of step 1-3 (see Qiagen protocol below) were are doing the procedure described in the protocol [Sterivex filtration](https://github.com/BeBOP-OBON/fram_protocol_collection/blob/main/SterivexFiltration_FRAM.md)._
 
-**_After those steps you can go on with the standard protocol at step 4_**
+_After those steps you can go on with the standard protocol at step 4_
 
-Please specify the actions you took to extract the DNA from your samples and note what equipment was used to do so (e.g. incubation, vortexing, washing, elution, use of controls).
+
+**DNA extraction protocol by Qiagen:**
+
+1. Filter water samples using a filter funnel attached to a vacuum source. The volume of water filtered will depend on the microbial load and turbidity of the water sample.
+
+   **Note:** Please see Types of Water Samples in the Hints and Troubleshooting Guide.
+   
+2. If using a reusable filter funnel, remove the upper portion of the apparatus.
+           
+3. Using two sets of sterile forceps, pick up the white filter membrane at opposite edges and roll the filter into a cylinder with the top side facing inward.
+
+   **Note:** Do not tightly roll or fold the filter membrane. To see a video, please visit the DNeasy PowerWater® Kit product page on www.mobio.com.
+   
+4.  Insert the (_cut_) filter into the 5 ml **Bead Tube**.
+5.  Add **1 ml of Solution PW1** to the Bead Tube. _(before adding PW1 it is good to rinse the used petri dish where the filter had been cutted in with
+the solution to remove cells from the petri dish. Add the solution PW1 with the remaining cells to the Bead Tube)_
+
+   **Note:** Solution **PW1 must be warmed** to dissolve precipitates prior to use. Solution PW1 should be used while still warm. For samples containing organisms that are difficult to lyse (fungi, algae) an additional heating step can be included. See Alternate Lysis Method in the Hints and Troubleshooting Guide.
+   
+6.  Secure the **Bead Tubes** horizontally to a MO BIO **Vortex** Adapter
+7.  **Vortex** at maximum speed for **5 minutes**. _(For some samples it may be good to increase the vortexing time to 10 minutes)_. Centrifuge the tubes **4000 x g for 1 minute** at room temperature. (This centrifugation step is optional if a centrifuge with a 15 ml tube rotor is not available, but will result in minor loss of supernatant).
+8.  Transfer the supernatant to a **clean 2 ml Collection Tube** (provided). Draw up the supernatant using a 1 ml pipette tip by placing it down into the beads.
+
+   **Note:** Placing the pipette tip down into the beads is required. Pipette more than once to ensure removal of all supernatant. Any carryover of
+beads will not affect subsequent steps. Expect to recover between 600-650 l of supernatant depending on the type of filter membrane used.
+
+9.  Centrifuge at **13,000 x g for 1 minute**.
+10.  Avoiding the pellet, transfer the supernatant to a **clean 2 ml Collection Tube** (provided).
+11.  Add **200 l of Solution IRS** (_before it was called solution PW2_) and vortex briefly to mix. Incubate at **4°C for 5 minutes**.
+12.  Centrifuge the tubes at **13,000 x g for 1 minute**.
+13.  Avoiding the pellet, transfer the supernatant to a **clean 2 ml Collection Tube** (provided).
+14.  Add **650 l of Solution PW3** and vortex briefly to mix.
+
+   **Note:** Check Solution PW3 for precipitation prior to use. Warm if necessary. **Solution PW3** can be used while still **warm**.
+
+15. Load **650 l of supernatant onto a Spin Filter** and centrifuge at **13,000 x g for 1 minute**. Discard the flow through and repeat until all the
+supernatant has been loaded onto the Spin Filter.
+
+   **Note:** A total of two loads for each sample processed are required.
+   
+16. Place the Spin Filter basket into a **clean 2 ml Collection Tube** (provided).
+17. Shake to **mix Solution PW4** before use. Add **650 l of Solution PW4** and centrifuge at **13,000 x g for 1 minute**. _(make sure that solution PW4 is mixed up quite well because it is a high concentrated salt solution!)_
+18. Discard the flow through and add **650 l of Ethanol** _(before it was called solution PW5)_ and centrifuge at **13,000 x g for 1 minute**.
 
 1. Step 1
 

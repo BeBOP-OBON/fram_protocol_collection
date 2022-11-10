@@ -163,8 +163,7 @@ the solution to remove cells from the petri dish. Add the solution PW1 with the 
 7.  **Vortex** at maximum speed for **5 minutes**. _(For some samples it may be good to increase the vortexing time to 10 minutes)_. Centrifuge the tubes **4000 x g for 1 minute** at room temperature. (This centrifugation step is optional if a centrifuge with a 15 ml tube rotor is not available, but will result in minor loss of supernatant).
 8.  Transfer the supernatant to a **clean 2 ml Collection Tube** (provided). Draw up the supernatant using a 1 ml pipette tip by placing it down into the beads.
 
-   **Note:** Placing the pipette tip down into the beads is required. Pipette more than once to ensure removal of all supernatant. Any carryover of
-beads will not affect subsequent steps. Expect to recover between 600-650 l of supernatant depending on the type of filter membrane used.
+   **Note:** Placing the pipette tip down into the beads is required. Pipette more than once to ensure removal of all supernatant. Any carryover of beads will not affect subsequent steps. Expect to recover between 600-650 l of supernatant depending on the type of filter membrane used.
 
 9.  Centrifuge at **13,000 x g for 1 minute**.
 10.  Avoiding the pellet, transfer the supernatant to a **clean 2 ml Collection Tube** (provided).
@@ -183,6 +182,7 @@ supernatant has been loaded onto the Spin Filter.
 16. Place the Spin Filter basket into a **clean 2 ml Collection Tube** (provided).
 17. Shake to **mix Solution PW4** before use. Add **650 l of Solution PW4** and centrifuge at **13,000 x g for 1 minute**. _(make sure that solution PW4 is mixed up quite well because it is a high concentrated salt solution!)_
 18. Discard the flow through and add **650 l of Ethanol** _(before it was called solution PW5)_ and centrifuge at **13,000 x g for 1 minute**.
+19. Discard the flow through and centrifuge again at 13,000 x g for 2 minutes to remove residual wash. _(make sure that there is no remaining solution on the filter membrane!)_
 
 1. Step 1
 

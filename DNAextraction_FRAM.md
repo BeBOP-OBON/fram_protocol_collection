@@ -182,25 +182,28 @@ supernatant has been loaded onto the Spin Filter.
 16. Place the Spin Filter basket into a **clean 2 ml Collection Tube** (provided).
 17. Shake to **mix Solution PW4** before use. Add **650 l of Solution PW4** and centrifuge at **13,000 x g for 1 minute**. _(make sure that solution PW4 is mixed up quite well because it is a high concentrated salt solution!)_
 18. Discard the flow through and add **650 l of Ethanol** _(before it was called solution PW5)_ and centrifuge at **13,000 x g for 1 minute**.
-19. Discard the flow through and centrifuge again at 13,000 x g for 2 minutes to remove residual wash. _(make sure that there is no remaining solution on the filter membrane!)_
-
-1. Step 1
-
-3. Step 2
-
-   a. Sub-step a
+19. Discard the flow through and centrifuge again at **13,000 x g for 2 minutes** to remove residual wash. _(make sure that there is no remaining solution on the filter membrane!)_
+20. Place the Spin Filter basket into a **clean 2 ml Collection Tube** (provided).
+21. Add **60 l of Solution EB** (_before it was called PW6_) to the center of the white filter membrane. _(1) If you want to keep your DNA stable over along storage you can use 1xTE buffer. (2) Because we often work with low DNA concentrations, we reduced the amount of elution buffer from 100 μl in the manufacturer protocol to 60 μl to slightly concentrate DNA._
+22. Centrifuge at **13,000 x g for 1 minute**.
    
-   b. Sub-step b
+   It is possible to divide the volume of elution buffer into two parts. For This you do step 21. + 22. twice with half of your chosen amount of elution buffer. This can increase your DNA concentration because you make sure that you elute all your DNA from the filter membrane. We are using mostly two times 30 μl of EB or 1xTE.
+   
+23. **Discard the Spin Filter basket**. The DNA is now ready for any downstream application. No further steps are required.
+24. _Optionally you can split your eluted DNA into two aliquots. One as "working" tube and one as "archive" tube._
 
+We (the Qiagen team) recommend storing the DNA frozen (-20°C to -80°C). Solution EB contains no EDTA. To concentrate the DNA, see the Hints and Troubleshooting Guide.
 
 ## Quality control
 
-Describe and explain criteria used to validate results of the standard operating procedure.
+To quantify your DNA use the Quantus from Promega ([DNA quantification using the Quantus-Fluorometer (FRAM MolObs)](https://spaces.awi.de/pages/viewpage.action?pageId=394251875)
+
+Alternatively, you can use a range of other instruments to quantify and quality-check your DNA, e.g. the Tecan NanoQuant, Qubit Fluorometer, NanoDrop
+spectrophotometer.))
 
 ## Basic troubleshooting guide
 
-Identify known issues associated with the procedure, if any.
-Provide troubleshooting guidelines when available.
+In addition to the Qiagen protocol, we provide the previous MoBio protocol that includes a troubleshooting guide.
 
 # REFERENCES
 

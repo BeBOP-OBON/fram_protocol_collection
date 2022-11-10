@@ -112,8 +112,9 @@ tubes with 13,000 xg | Content Cell | Content Cell | 1 | Content Cell |
 | pipette tips (blue / yellow) | Content Cell | Content Cell | several | autoclaved |
 | gloves | | | several | |
 | **Chemicals** |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| chemicals provided in DNeasy PowerWater Kit | Content Cell | Content Cell | 1 ml PW1; 200 μl IRS; 650 μl PW3; 650 μl PW4; 650 μl Ethanol and optionally 100 μl Solution EB | solution PW1 and PW3 need to be warmed up (see protocol) |
+| Ethanol for cleaning the working place | 70% ethanol | Content Cell | Content Cell | Content Cell |
+| potentially 1xTE buffer or PCR water | | | 50-100 μl | sterile. If you want to elute the DNA in 1xTE or PCR water instead of C6 (tris buffer) | 
 
 # STANDARD OPERATING PROCEDURE
 
@@ -125,15 +126,19 @@ Provide a step-by-step description of the protocol. The identification of diffic
 
 ## DNA extraction
 
+The following protocol is the provided protocol from Qiagen for this kit. At some points some changes are added (**_marked in cursive and bold_**). They are just options we brought in to make the workflow easier or more efficient.
+
 ### Preparation
 
-Please specify the preparatory actions you took before you extracted the DNA from your samples and note what equipment was used to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
-
-1. Step 1
-
-3. Step 2
+1. Warm Solution PW1 prior to use at 55°C for 5-10 minutes. Use Solution PW1 while still warm.
+2. Check Solution PW3 and warm at 55°C for 5-10 minutes if necessary. Solution PW3 can be used while still warm. (**_because of the brown bottle you can't see whether PW3 is precipitated or not so it is better to warm both solution. Therefore it is best to use a water bath set on 55°C_**)
+3. Shake to mix solution PW4 before use.
 
 ### Extraction
+
+**_In our standard operating procedure we filter samples on Sterivex filters (0.2 μm) via a peristaltic pump. So instead of step 1-3 (see Qiagen protocol below) were are doing the procedure described in the protocol Sterivex filtration._**
+
+**_After those steps you can go on with the standard protocol at step 4_**
 
 Please specify the actions you took to extract the DNA from your samples and note what equipment was used to do so (e.g. incubation, vortexing, washing, elution, use of controls).
 

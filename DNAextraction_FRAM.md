@@ -16,7 +16,6 @@ Version numbers start at "1.0.0" when the protocol is first completed and will i
 | VERSION  | RELEASE DATE This is the date when a given protocol version was finalised | DESCRIPTION OF REVISIONS Please include a brief description of what was changed relative to the previous version |
 | ------------- | ------------- | ------------- |
 | 1.0.0  | 2022-03-09  | Working version  |
-| Content Cell  | Content Cell  | Content Cell  |
 
 ## RELATED PROTOCOLS IN YOUR FOLDER
 
@@ -25,7 +24,6 @@ This is a list of other protocols deposited in your folder which should be known
 | PROTOCOL NAME AND LINK  | VERSION The version of the protocol you linked to | RELEASE DATE This is the date corresponding to the version listed to the left |
 | ------------- | ------------- | ------------- |
 | [DNA quantification using the Quantus-Fluorometer (FRAM MolObs)](https://spaces.awi.de/pages/viewpage.action?pageId=394251875)  | 1  | 2022-03-09  |
-| Content Cell  | Content Cell  | yyyy-mm-dd  |
 
 ## RELATED EXTERNAL PROTOCOLS
 
@@ -33,8 +31,7 @@ This is a list of other protocols that are not in your folder which should be kn
 
 | EXTERNAL PROTOCOL NAME AND LINK  | ISSUER / AUTHOR Please note who authored the protocol (this may also be a company name) | ACCESS DATE This is the date you downloaded or scanned the protocol and uploaded it. |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | yyyy-mm-dd  |
-| Content Cell  | Content Cell  | yyyy-mm-dd  |
+| -  | -  | -  |
 
 ## ACRONYMS AND ABBREVIATIONS
 
@@ -49,8 +46,7 @@ This is a list of other protocols that are not in your folder which should be kn
 
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| -  | - |
 
 # BACKGROUND
 
@@ -68,7 +64,7 @@ DNA extraction using this kit allows for high throughput and reproducibility. It
 
 ## Spatial coverage and environment(s) of relevance
 
-If applicable, please specify the region where the protocol is applied. For regional term guidance see here. If applicable, please indicate here the environment(s) of relevance for the protocol, e.g. Abyssal plain. Select from the ENVO terminology.
+This protocol is used for samples from the Artic.
 
 # PERSONNEL REQUIRED
 
@@ -85,7 +81,6 @@ Consider the safety instructions provided in the kit (attached, can also be foun
 No additional training required beyond standard laboratory practices.
 
 ## Time needed to execute the procedure
-
 
 Depends on the amount of samples. One of the limiting factors is the amount of samples that can be mounted simultaneously on the vortex (size of the BeadTube adapter). Normally 1.5-2 hours are sufficient to extract 6-12 samples and measure their DNA concentration.
 
@@ -118,11 +113,7 @@ tubes with 13,000 xg | Content Cell | Content Cell | 1 | Content Cell |
 
 # STANDARD OPERATING PROCEDURE
 
-In the following SOP, please use the exact names of equipment as noted in the table above.
-
 ## Protocol
-
-Provide a step-by-step description of the protocol. The identification of difficult steps in the protocol and the provision of recommendations for the execution of those steps are encouraged.
 
 ## DNA extraction
 
@@ -139,7 +130,6 @@ The following protocol is the provided protocol from Qiagen for this kit. At som
 _In our standard operating procedure we filter samples on Sterivex filters (0.2 μm) via a peristaltic pump. So instead of step 1-3 (see Qiagen protocol below) were are doing the procedure described in the protocol [Sterivex filtration](https://github.com/BeBOP-OBON/fram_protocol_collection/blob/main/SterivexFiltration_FRAM.md)._
 
 _After those steps you can go on with the standard protocol at step 4_
-
 
 **DNA extraction protocol by Qiagen:**
 
@@ -198,8 +188,7 @@ We (the Qiagen team) recommend storing the DNA frozen (-20°C to -80°C). Soluti
 
 To quantify your DNA use the Quantus from Promega ([DNA quantification using the Quantus-Fluorometer (FRAM MolObs)](https://spaces.awi.de/pages/viewpage.action?pageId=394251875)
 
-Alternatively, you can use a range of other instruments to quantify and quality-check your DNA, e.g. the Tecan NanoQuant, Qubit Fluorometer, NanoDrop
-spectrophotometer.))
+Alternatively, you can use a range of other instruments to quantify and quality-check your DNA, e.g. the Tecan NanoQuant, Qubit Fluorometer, NanoDrop spectrophotometer.))
 
 ## Basic troubleshooting guide
 
@@ -207,9 +196,8 @@ In addition to the Qiagen protocol, we provide the previous MoBio protocol that 
 
 # REFERENCES
 
-Insert all references cited in the document.
-Please insert full DOI address when available, e.g. http://doi.dx.org/10.1007/s11258-014-0404-1
+-
 
 # APPENDIX A: DATASHEETS
 
-Link templates (e.g. preformatted spreadsheets) used to record measurements and report on the quality of the data as well as any documents such as manufacturer specifications, images, etc that support this protocol. Please include a short note describing the document's relevance.
+-
